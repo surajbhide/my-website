@@ -2,6 +2,4 @@
 
 This is an awesome website!
 
-After renaming.
-
-Change made in example branch.
+changes made on master on github before rebase.
